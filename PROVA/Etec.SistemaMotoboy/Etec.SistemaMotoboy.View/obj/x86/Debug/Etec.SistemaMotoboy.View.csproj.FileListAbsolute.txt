@@ -15,3 +15,5 @@ G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x
 G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.ClienteView.resources
 G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.EntregaView.resources
 G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.FuncionarioView.resources
+C:\Users\Italo\Downloads\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.exe
+C:\Users\Italo\Downloads\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.pdb

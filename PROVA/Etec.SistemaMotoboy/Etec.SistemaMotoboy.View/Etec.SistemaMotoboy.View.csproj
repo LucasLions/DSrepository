@@ -64,6 +64,12 @@
     <Compile Include="FuncionarioView.Designer.cs">
       <DependentUpon>FuncionarioView.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuView.Designer.cs">
+      <DependentUpon>MenuView.cs</DependentUpon>
+    </Compile>
     <Compile Include="MotoboyView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FuncionarioView.resx">
       <DependentUpon>FuncionarioView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuView.resx">
+      <DependentUpon>MenuView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MotoboyView.resx">
       <DependentUpon>MotoboyView.cs</DependentUpon>
