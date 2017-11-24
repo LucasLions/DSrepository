@@ -1,0 +1,38 @@
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.Form1.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.Properties.Resources.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.view.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.view.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.CLASS.dll
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.controller.dll
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.model.dll
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.CLASS.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.controller.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.model.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.pdb
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.exe
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.pdb
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.csprojResolveAssemblyReference.cache
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.frmCliente.resources
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.Properties.Resources.resources
+G:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.csproj.GenerateResource.Cache
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.view.exe
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.view.pdb
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.CLASS.dll
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.controller.dll
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.model.dll
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.CLASS.pdb
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.controller.pdb
+G:\Etec.concessionaria\Etec.concessionaria.view\bin\Debug\Etec.concessionaria.model.pdb
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.exe
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.pdb
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.frmCliente.resources
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.frmFuncionario.resources
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.frmVeiculo.resources
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.frmVendas.resources
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\Etec.concessionaria.view.Properties.Resources.resources
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Etec.concessionaria\Etec.concessionaria.view\obj\x86\Debug\GenerateResource.write.1.tlog

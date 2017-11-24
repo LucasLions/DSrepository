@@ -1,0 +1,8 @@
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.CLASS\bin\Debug\Etec.concessionaria.CLASS.dll
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.CLASS\bin\Debug\Etec.concessionaria.CLASS.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.CLASS\obj\Debug\Etec.concessionaria.CLASS.dll
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.concessionaria\Etec.concessionaria.CLASS\obj\Debug\Etec.concessionaria.CLASS.pdb
+G:\Etec.concessionaria\Etec.concessionaria.CLASS\bin\Debug\Etec.concessionaria.CLASS.dll
+G:\Etec.concessionaria\Etec.concessionaria.CLASS\bin\Debug\Etec.concessionaria.CLASS.pdb
+G:\Etec.concessionaria\Etec.concessionaria.CLASS\obj\Debug\Etec.concessionaria.CLASS.dll
+G:\Etec.concessionaria\Etec.concessionaria.CLASS\obj\Debug\Etec.concessionaria.CLASS.pdb
