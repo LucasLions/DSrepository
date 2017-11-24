@@ -1,0 +1,9 @@
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.Controller.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.Controller.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.CLASS.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.Model.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.CLASS.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\bin\Debug\Etec.SistemaMotoboy.Model.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\obj\Debug\Etec.SistemaMotoboy.Controller.csprojResolveAssemblyReference.cache
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\obj\Debug\Etec.SistemaMotoboy.Controller.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Controller\obj\Debug\Etec.SistemaMotoboy.Controller.pdb

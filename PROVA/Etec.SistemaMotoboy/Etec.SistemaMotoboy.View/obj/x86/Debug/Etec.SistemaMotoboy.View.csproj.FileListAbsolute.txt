@@ -1,0 +1,17 @@
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.MotoboyView.resources
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.Properties.Resources.resources
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.csproj.GenerateResource.Cache
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.View.exe
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.View.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.CLASS.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.Controller.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.Model.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.CLASS.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.Controller.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\bin\Debug\Etec.SistemaMotoboy.Model.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.csprojResolveAssemblyReference.cache
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.exe
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.ClienteView.resources
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.EntregaView.resources
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.View\obj\x86\Debug\Etec.SistemaMotoboy.View.FuncionarioView.resources

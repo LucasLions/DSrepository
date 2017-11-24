@@ -1,0 +1,7 @@
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\obj\Debug\Etec.SistemaMotoboy.Model.csprojResolveAssemblyReference.cache
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\bin\Debug\Etec.SistemaMotoboy.Model.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\bin\Debug\Etec.SistemaMotoboy.Model.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\bin\Debug\Etec.SistemaMotoboy.CLASS.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\bin\Debug\Etec.SistemaMotoboy.CLASS.pdb
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\obj\Debug\Etec.SistemaMotoboy.Model.dll
+G:\ETEC\3º Semestre\DS\21-11\Etec.SistemaMotoboy\Etec.SistemaMotoboy.Model\obj\Debug\Etec.SistemaMotoboy.Model.pdb
